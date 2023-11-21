@@ -4,10 +4,10 @@
 let num = 21; //Integer
 
 // Cadena de texto
-let str = "Hola Femcoders"; // No es Integer. Tipo texto
+let saludo = "Hola Femcoders"; // No es Integer. Tipo texto
 
 // Booleano
-let bool = false;  // NO es Integer
+let green = false;  // NO es Integer
 
 //Realiza operaciones matemáticas básicas con las variables creadas anteriormente (suma, resta, multiplicación, división).
 
